@@ -6,4 +6,14 @@ import { Component } from '@angular/core';
   templateUrl: './chat.html',
   styleUrl: './chat.css',
 })
-export class Chat {}
+export class Chat {
+  public message: string = '';
+  public messages: string[] = [];
+  public sendMessage(){
+
+  }
+
+  public listenMessage(){
+
+  }
+}
