@@ -1,0 +1,16 @@
+{
+  "name": "chatapp2026test",
+  "version": "1.0.0",
+  "description": "a simple chat app using angular and bode.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Jingyao Piao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "socket.io": "^4.8.3"
+  }
+}
